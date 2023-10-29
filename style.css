@@ -187,6 +187,8 @@ footer {
     .feature {
         flex-direction: column;
     }
+    .footer_container {
+        flex-direction: column;
 }
 
 
